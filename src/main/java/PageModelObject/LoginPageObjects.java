@@ -7,6 +7,8 @@ import org.openqa.selenium.WebElement;
 public class LoginPageObjects {
    
 	public WebDriver driver;  // this driver dont have scope
+	
+	// this is code line for git purpose
      
 	// driver.findelements(By.xpath("").sendkeys();
 	// we have achived Encapsulation
